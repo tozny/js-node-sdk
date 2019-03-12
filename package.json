@@ -1,7 +1,7 @@
 {
-  "name": "e3db",
+  "name": "TozStore Node",
   "version": "1.2.5",
-  "description": "JavaScript client library for E3DB",
+  "description": "JavaScript client library for TozStore",
   "homepage": "https://github.com/tozny/e3db-js",
   "author": {
     "name": "Tozny, LLC",
@@ -87,7 +87,7 @@
       "prettier"
     ]
   },
-  "repository": "https://github.com/tozny/e3db-js",
+  "repository": "https://github.com/tozny/js-node-sdk",
   "jest": {
     "automock": false,
     "setupFiles": [
