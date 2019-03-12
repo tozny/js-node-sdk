@@ -1,12 +1,11 @@
-[![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# Tozny Storage (TozStore) Node SDK (Backend JavaScript)
 
-# E3DB Node SDK (Backend JavaScript)
+## WARNING
 
-The Tozny End-to-End Encrypted Database (E3DB) is a storage platform with powerful sharing and consent management features.
-[Read more on our blog.](https://tozny.com/blog/announcing-project-e3db-the-end-to-end-encrypted-database/)
+This is alpha software for Tozny internal development. Tozny does not guarantee that this library is stable and does not offer support for usage at this time.  Please use our existing stable [JavaScript SDK](https://github.com/tozny/e3db-js).
 
-This repository contains a client interface for use in the Node and Browser SDKs.
+The Tozny End-to-End Encrypted Database (Tozny Storage) is a storage platform with powerful sharing and consent management features.
 
 ## Terms of Service
 
-Your use of E3DB must abide by our [Terms of Service](https://github.com/tozny/e3db-java/blob/master/terms.pdf), as detailed in the linked document.
+Your use of TozStore must abide by our [Terms of Service](https://github.com/tozny/e3db-java/blob/master/terms.pdf), as detailed in the linked document.
