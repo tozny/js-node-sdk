@@ -1,4 +1,4 @@
-const tozStore = require('../dist/index.js')
+const tozStore = require("../dist/index.js")
 
 console.log(tozStore)
 
@@ -8,7 +8,9 @@ console.log(tozStore)
 // console.log(tozStore.default.Config)
 // console.log(tozStore.default.init)
 
-console.log('CORRECT VALUES')
+console.log("CORRECT VALUES")
 console.log(tozStore.Client)
 console.log(tozStore.Config)
-console.log(tozStore.init)
+const Client = tozStore.init("Sodium")
+console.log(Client)
+const client = new Client()
