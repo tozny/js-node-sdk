@@ -97,12 +97,14 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.5.4",
+    "FileReader": "^0.10.2",
     "babel-runtime": "^6.26",
     "base64url": "^3.0.1",
     "dotenv": "^6.2.0",
     "e3db-client-interface": "0.0.13",
     "es6-promise": "^4.2.4",
     "isomorphic-fetch": "^2.2",
-    "libsodium-wrappers": "^0.7.5"
+    "libsodium-wrappers": "^0.7.5",
+    "md5": "^2.2.1"
   }
 }

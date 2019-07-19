@@ -4,3 +4,8 @@ dist
 .env
 .vscode
 .DS_Store
+examples/diana.png
+examples/janeEyre.txt
+examples/prac.txt
+e2e-janeEyre.bin
+e2e-prac.bin
