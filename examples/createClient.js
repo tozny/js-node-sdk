@@ -7,8 +7,8 @@ const config = Config.fromObject(process.env.CLIENT_CREDENTIALS_JSON)
 const Client = tozStore.init("Sodium")
 const client = new Client(config)
 
-const readline = require('readline');
-const stream = require('stream');
+// const readline = require('readline');
+// const stream = require('stream');
 
 const writeFile = async client => {
   let writtenFile = []
@@ -26,7 +26,7 @@ const writeFile = async client => {
   try {
     writtenFile = await client.writeLargeFile(
       "janeEyre",
-      /*"examples/janeEyre.txt"*/ 'examples/prac.txt',
+      "examples/prac.txt" /*'examples/janeEyre.txt'*/,
       plainMeta
     )
   } catch (err) {
