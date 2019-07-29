@@ -42,5 +42,5 @@ const readFile = async client => {
   }
 }
 
-readFile(client)
-// writeFile(client)
+// readFile(client)
+writeFile(client)
