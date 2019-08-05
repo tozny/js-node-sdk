@@ -30,8 +30,8 @@ const writeFile = async client => {
 }
 
 const readFile = async client => {
-  const recordID = '5d98c2f4-22e8-484a-be8d-94ad50940ae8'
-  const destFile = 'jane.txt'
+  const recordID = 'cc6e324d-91d0-4328-a536-3402ae6d6f24'
+  const destFile = 'diana.png'
   try {
     let decryptedFile = await client.readLargeFile(
       recordID,
