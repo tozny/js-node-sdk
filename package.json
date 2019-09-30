@@ -97,7 +97,7 @@
     "awaitify-stream": "^1.0.2",
     "babel-runtime": "^6.26",
     "base64url": "^3.0.1",
-    "e3db-client-interface": "^0.3.0-alpha.9",
+    "e3db-client-interface": "^0.3.0-alpha.10",
     "isomorphic-fetch": "^2.2",
     "js-md5": "^0.7.3",
     "libsodium-wrappers": "^0.7.5"
