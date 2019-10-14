@@ -1,6 +1,6 @@
 {
   "name": "tozny-node-sdk",
-  "version": "1.0.0-alpha.3",
+  "version": "2.0.0-alpha.0",
   "description": "Node SDK for Tozny Storage (TozStore) clients.",
   "homepage": "https://github.com/tozny/js-node-sdk",
   "author": {
@@ -97,7 +97,7 @@
     "awaitify-stream": "^1.0.2",
     "babel-runtime": "^6.26",
     "base64url": "^3.0.1",
-    "e3db-client-interface": "^0.3.0-alpha.11",
+    "e3db-client-interface": "^2.0.0-alpha.0",
     "isomorphic-fetch": "^2.2",
     "js-md5": "^0.7.3",
     "libsodium-wrappers": "^0.7.5"
